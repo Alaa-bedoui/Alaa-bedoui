@@ -14,7 +14,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 ## 📊 GitHub Stats
-![Chiraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=chira123&show_icons=true&theme=radical)
+![Alaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alaa-bedoui&show_icons=true&theme=radical)
 
 ## 📝 Latest Blog Posts
 - [Your latest blog post](#)
