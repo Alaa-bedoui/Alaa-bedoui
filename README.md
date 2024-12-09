@@ -22,6 +22,3 @@ When I'm not coding, you'll find me exploring new tech trends or helping student
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-
-## 📊 GitHub Stats
-![Alaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alaa-bedoui&show_icons=true&theme=radical)
